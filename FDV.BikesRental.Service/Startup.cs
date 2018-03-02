@@ -30,6 +30,7 @@ namespace FDV.BikesRental.Service
         {
             // Add framework services.
             services.AddMvc();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,6 +40,7 @@ namespace FDV.BikesRental.Service
             loggerFactory.AddDebug();
 
             app.UseMvc();
+            
         }
     }
 }

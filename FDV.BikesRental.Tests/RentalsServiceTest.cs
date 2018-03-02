@@ -22,7 +22,7 @@ namespace FDV.BikesRental.Tests
         }
 
         [TestMethod]
-        public void Should_rent_bikes_normally()
+        public void Should_rent_by_day_bikes_normally()
         {
             var rentService = _configurationService.GetInstance<IRentaislService>();
 
@@ -41,20 +41,50 @@ namespace FDV.BikesRental.Tests
             branch = rentService.Rent(1, rentals);
 
             Assert.AreEqual(branch.AvailableBikes, 0);
+        }
 
-           try
-            {
+        [TestMethod]
+        public void Should_rent_by_hour_bikes_normally()
+        {
+            var rentService = _configurationService.GetInstance<IRentaislService>();
 
-                branch = rentService.Rent(1, rentals);
+            var rentals = new List<Rental>();
 
-            } catch (NoBikesAvailabilityException ex)
-            {
-                Assert.IsTrue(0 == 0);
+            rentals.Add(new RentalByHour { Amount = 1, Id = 1 });
 
-                return;
-            }
+            var branch = rentService.Rent(1, rentals);
 
-            Assert.IsTrue(0 != 0);
+            Assert.AreEqual(branch.AvailableBikes, 2);
+
+            branch = rentService.Rent(1, rentals);
+
+            Assert.AreEqual(branch.AvailableBikes, 1);
+
+            branch = rentService.Rent(1, rentals);
+
+            Assert.AreEqual(branch.AvailableBikes, 0);
+        }
+
+        [TestMethod]
+        public void Should_rent_by_week_bikes_normally()
+        {
+            var rentService = _configurationService.GetInstance<IRentaislService>();
+
+            var rentals = new List<Rental>();
+
+            rentals.Add(new RentalByWeek { Amount = 1, Id = 1 });
+
+            var branch = rentService.Rent(1, rentals);
+
+            Assert.AreEqual(branch.AvailableBikes, 2);
+
+            branch = rentService.Rent(1, rentals);
+
+            Assert.AreEqual(branch.AvailableBikes, 1);
+
+            branch = rentService.Rent(1, rentals);
+
+            Assert.AreEqual(branch.AvailableBikes, 0);
         }
 
         [TestMethod]

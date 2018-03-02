@@ -28,8 +28,6 @@ namespace FDV.BikesRental.Service.Services
         {
             var branch = _branches.Get(branchId);
 
-            List<Task> tasks = new List<Task>();
-
             foreach (var rental in rentals)
             {
                 RentOne(branch, rental);

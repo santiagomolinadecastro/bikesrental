@@ -19,6 +19,7 @@ namespace FDV.BikesRental.Service.Domain
         private readonly int _minFamilyRentals;
         private readonly double _discountFamilyRentals;
         private List<Rental> _rentals;
+        private int _rantalsCount;
 
         #endregion - Private Attributes -
 
@@ -28,7 +29,7 @@ namespace FDV.BikesRental.Service.Domain
         {
             get
             {
-                if (_rentals.Count < _minFamilyRentals) throw new InvalidFamilyRentalException();
+                if (_rantalsCount < _minFamilyRentals) throw new InvalidFamilyRentalException();
 
                 double result = 0;
 
@@ -51,6 +52,7 @@ namespace FDV.BikesRental.Service.Domain
         {
             try
             {
+                _rantalsCount = 0;
                 _rentals = new List<Rental>();
                 _maxFamilyRentals = int.Parse(ConfigurationManager.AppSettings["MaxFamilyRentals"]);
                 _minFamilyRentals = int.Parse(ConfigurationManager.AppSettings["MinFamilyRentals"]);
@@ -66,8 +68,12 @@ namespace FDV.BikesRental.Service.Domain
 
         public void AddRental(Rental rental)
         {
-            if ((_rentals.Count >= _maxFamilyRentals)) throw new InvalidFamilyRentalException();
-            else _rentals.Add(rental);
+            if ((_rantalsCount >= _maxFamilyRentals)) throw new InvalidFamilyRentalException();
+            else
+            {
+                _rantalsCount += rental.Amount;
+                _rentals.Add(rental);
+            }
 
         }
 

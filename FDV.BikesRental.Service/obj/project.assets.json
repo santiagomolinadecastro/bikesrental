@@ -7558,10 +7558,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smolina\\Source\\Repos\\bikesrental\\FDV.BikesRental.Service\\FDV.BikesRental.Service.csproj",
+      "projectUniqueName": "C:\\Users\\smolina\\Source\\Repos\\bikesrental2\\FDV.BikesRental.Service\\FDV.BikesRental.Service.csproj",
       "projectName": "FDV.BikesRental.Service",
-      "projectPath": "C:\\Users\\smolina\\Source\\Repos\\bikesrental\\FDV.BikesRental.Service\\FDV.BikesRental.Service.csproj",
-      "outputPath": "C:\\Users\\smolina\\Source\\Repos\\bikesrental\\FDV.BikesRental.Service\\obj\\",
+      "projectPath": "C:\\Users\\smolina\\Source\\Repos\\bikesrental2\\FDV.BikesRental.Service\\FDV.BikesRental.Service.csproj",
+      "outputPath": "C:\\Users\\smolina\\Source\\Repos\\bikesrental2\\FDV.BikesRental.Service\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "net452"
