@@ -6,7 +6,7 @@ Precondiciones
 
 Diseño
 - Usé el patrón inyección de dependencias para poder generar escenarios de prueba.
-- La interfáz IRentService tiene la responsabilidad de negocio.
+- La interfáz IRentService brinda servicio a capas superiores y su responsabilidad es encapsular la lógica negocio. 
 - La interfáz IBranchesRepository será la responsable de obtener físicamente un branch.
 - Un Branch tiene:
 	- Bicicletas disponibles, si no hay disponibilidad no deberíamos poder alquilarlas.
