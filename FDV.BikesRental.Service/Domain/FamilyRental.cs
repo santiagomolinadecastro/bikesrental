@@ -68,7 +68,7 @@ namespace FDV.BikesRental.Service.Domain
 
         public void AddRental(Rental rental)
         {
-            if ((_rantalsCount >= _maxFamilyRentals)) throw new InvalidFamilyRentalException();
+            if ((_rantalsCount + rental.Amount > _maxFamilyRentals)) throw new InvalidFamilyRentalException();
             else
             {
                 _rantalsCount += rental.Amount;
