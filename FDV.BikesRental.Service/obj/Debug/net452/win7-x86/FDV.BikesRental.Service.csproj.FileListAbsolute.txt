@@ -1,0 +1,232 @@
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.exe.config
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.deps.json
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.runtimeconfig.json
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.runtimeconfig.dev.json
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.exe
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\libuv.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Buffers.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.csprojResolveAssemblyReference.cache
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.csproj.FDV.BikesRental.Service.exe.config
+c:\users\smolina\documents\visual studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.AssemblyInfo.cs
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.pdb
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\CommonServiceLocator.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Abstractions.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Configuration.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Container.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Interception.Configuration.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Interception.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.RegistrationByConvention.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.ServiceLocation.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.exe
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.pdb
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Net.Http.Formatting.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Web.Http.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Web.Http.WebHost.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Web.Infrastructure.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Swashbuckle.Core.dll
+c:\Users\smolina\Documents\Visual Studio 2017\Projects\FDV.BikesRental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\WebActivatorEx.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.exe.config
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.deps.json
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.runtimeconfig.json
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.runtimeconfig.dev.json
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.exe
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\FDV.BikesRental.Service.pdb
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\libuv.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Net.Http.Formatting.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Web.Http.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Web.Http.WebHost.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Microsoft.Web.Infrastructure.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Swashbuckle.Core.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Buffers.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\CommonServiceLocator.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Abstractions.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Configuration.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Container.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Interception.Configuration.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.Interception.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.RegistrationByConvention.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\Unity.ServiceLocation.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\bin\Debug\net452\win7-x86\WebActivatorEx.dll
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.csprojResolveAssemblyReference.cache
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.csproj.FDV.BikesRental.Service.exe.config
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.AssemblyInfo.cs
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.exe
+C:\Users\smolina\Source\Repos\bikesrental\FDV.BikesRental.Service\obj\Debug\net452\win7-x86\FDV.BikesRental.Service.pdb
